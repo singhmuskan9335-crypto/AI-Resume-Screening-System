@@ -1,0 +1,11 @@
+streamlit
+plotly
+pandas
+reportlab
+PyPDF2
+python-docx
+sentence-transformers
+torch
+scikit-learn
+PyMuPDF
+openpyxl

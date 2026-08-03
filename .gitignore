@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+database/*.db
+
+Candidate_Report.pdf
+Candidate_Ranking.xlsx
+
+.env
